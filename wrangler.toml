@@ -1,9 +1,8 @@
-name = ""
-account_id = ""
+name = "my-app"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
 workers_dev = true
-route = { pattern = "", zone_id = ""}
-main = "dist/main.js"
-compatibility_date = "2022-06-03"
-
-[build]
-command = "npm run build"
+compatibility_date = "2022-10-08"
